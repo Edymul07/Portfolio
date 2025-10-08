@@ -3,7 +3,7 @@
 ### About me :wave:
 Hi, my name is Edy. I started my career in customer service and project management, where I learned a lot about communication, problem-solving, and how to understand client needs and translate them into practical actions. For the past two years, I’ve been working as a Junior Frontend Programmer. During that time, I often performed testing on new features before they were released — and that’s when I discovered my real interest in software testing and quality assurance. And right now, I’m focusing on developing my career in the field of Manual Quality Assurance Testing.
 
-* [My LinkedIn Profile](www.linkedin.com/in/edy-mulyanto) 
+* [My LinkedIn Profile](https://www.linkedin.com/in/edy-mulyanto) 
 * [CV Resume](https://drive.google.com/file/d/1v9jpC4mlNEEtHUHPLi7Uac1eDFOlQeDP/view?usp=sharing)
 
 <!--### My experience :office:
